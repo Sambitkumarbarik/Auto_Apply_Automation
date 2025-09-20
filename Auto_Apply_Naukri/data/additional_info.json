@@ -1,0 +1,16 @@
+{
+    "total_experience": "6 years",
+    "current_company": "Current Company Name",
+    "current_designation": "Senior Software Engineer",
+    "current_salary": "1200000",
+    "notice_period": "30 days",
+    "preferred_work_location": "Bangalore",
+    "resume_headline": "Senior Software Engineer with expertise in Python and Test Automation",
+    "key_skills": [
+        "Python",
+        "Playwright",
+        "Selenium",
+        "Test Automation",
+        "API Testing"
+    ]
+}
